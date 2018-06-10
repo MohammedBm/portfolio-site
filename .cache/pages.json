@@ -56,13 +56,6 @@
         "path": "/Thanks/"
     },
     {
-        "componentChunkName": "component---src-pages-weather-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "weather.json",
-        "path": "/Weather/"
-    },
-    {
         "componentChunkName": "component---src-pages-yunojuno-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",

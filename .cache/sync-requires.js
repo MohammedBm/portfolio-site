@@ -15,7 +15,6 @@ exports.components = {
   "component---src-pages-quidco-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Quidco.js")),
   "component---src-pages-suggestv-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js")),
   "component---src-pages-thanks-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js")),
-  "component---src-pages-weather-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js")),
   "component---src-pages-yunojuno-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Yunojuno.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/index.js")),
   "component---src-pages-page-2-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/page-2.js"))
@@ -38,8 +37,6 @@ exports.json = {
   "suggestv.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/suggestv.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "thanks.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/thanks.json"),
-  "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
-  "weather.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/weather.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "yunojuno.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/yunojuno.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),

@@ -13,7 +13,10 @@ role='My role comprised the design of the native application, web app & ATM mach
 clients='Freelance Product Designer '
 job='UI/UX Research, Wireframing,  UI/UX Design, Icon Design'
 />
-<div className='ph0-ns ph2-m ph3 db center mw8'>
+
+
+<a href='http://numilli.surge.sh/'> Static side under development <span className='green'> numilli.surge.sh </span> </a>
+<div className='ph0-ns ph2-m ph3 db center mw8 mt4'>
   <CaseStudyImages  img='images/numilli/numilli-5.png'/>
   <CaseStudyImages  img='images/numilli/numilli-2.png'/>
   <CaseStudyImages  img='images/numilli/numilli-3.png'/>

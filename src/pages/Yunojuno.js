@@ -16,9 +16,9 @@ job='UI/UX Research, Wireframing, Prototyping,  UI/UX Design '
 <section className='center mw8'>
   <div className='pb4 ma0 ph0-ns ph2'>
   <h1 className='fw4'>Prototyping</h1>
-  <a className='w-third pr4 dim pv2'  target='blank' href='http://yunojuno.surge.sh/availability-menu'>Availability toggle development</a>
-  <a className='w-third pr4 dim pv2' target='blank' href='http://yunojuno.surge.sh/freelancer-profile'>Freelancers profile</a>
-  <a className='w-third pr4 dim pv2' target='blank' href='http://yunojuno.surge.sh/employers-dashboard-info-copy'>Employers empty states</a>
+  <a className='pr4 dim pv2 green f3'  target='blank' href='http://yunojuno.surge.sh/availability-menu'>Availability toggle</a>
+  <a className='pr4 dim pv2 green f3' target='blank' href='http://yunojuno.surge.sh/freelancer-profile'>Freelancers profile</a>
+  <a className='pr4 dim pv2 green f3' target='blank' href='http://yunojuno.surge.sh/employers-dashboard-info-copy'>Employers empty states</a>
   </div>
 
   <h1 className='pv4 ma0 ph0-ns ph2 fw4'>Final designs</h1>

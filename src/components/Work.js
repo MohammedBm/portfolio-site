@@ -19,7 +19,7 @@ class Work extends React.Component {
         <h1>Personal projects</h1>
         <WorkTileOut title='Deliverate.co.uk' info='Web application' summary='Front-end for a Delivery rating web app showing the top-rated takeaways in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
         <WorkTileOut title='Working-out.design' info='Content management system' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.design/'/>
-        <WorkTileOut title='Interactive résumé' info='Javascript resume template' summary='Interactive CV, receives content via a JSON file and displays it dynamically within a template.' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
+        <WorkTileOut title='Interactive résumé' info='Javascript résumé template' summary='JSON content dynamically displayed within a template.' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
         <WorkTile title='CSS gradient' info='Interactive CSS gradients' summary='CSS for a number of gradients, simplely click to download' img='images/preview/gradient.svg' link='Gradient'/>
     </section>
     )
